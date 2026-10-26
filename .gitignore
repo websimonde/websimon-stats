@@ -1,0 +1,9 @@
+stats/config.php
+stats/visits.log.php
+stats/visits.log
+stats/visits.log-old
+stats/login-attempts.php
+stats/*.tmp-*
+stats/logo.png
+stats/logo-dark.png
+stats/demo.php
