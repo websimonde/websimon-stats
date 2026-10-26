@@ -82,7 +82,9 @@ websimon-stats ist kostenlos und wird so bereitgestellt, wie es ist – **ohne S
 
 Du brauchst eine neue Webseite und willst dich um nichts kümmern? Bei Webseiten von [websimon.de](https://websimon.de) ist die Statistik inklusive und fertig eingerichtet.
 
-Gefällt dir das Script? [☕ Spendier mir einen Kaffee](https://ko-fi.com/G7N629I3TR)
+Gefällt dir das Script?
+
+<a href="https://ko-fi.com/G7N629I3TR"><img src="docs/coffee-de.png" alt="Spendier mir einen Kaffee" width="255"></a>
 
 ## Lizenz
 

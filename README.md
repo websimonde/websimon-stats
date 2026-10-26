@@ -75,7 +75,9 @@ Replace all files in the statistics folder with the new ones – **except** thes
 
 websimon-stats is free and provided as is – **without support**. I'm happy to read bug reports but can't promise an answer.
 
-Like the script? [☕ Buy me a coffee](https://ko-fi.com/G7N629I3TR)
+Like the script?
+
+<a href="https://ko-fi.com/G7N629I3TR"><img src="docs/coffee-en.png" alt="Buy me a coffee" width="187"></a>
 
 ## License
 
